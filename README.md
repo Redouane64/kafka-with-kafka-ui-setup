@@ -26,6 +26,8 @@ kafka:
 
 2. Start `kafka` and `kafka-ui` containers using the following script:
 
+3. browse to `localhost:16931` to access Kafka UI dashboard.
+
 ```bash
 ./run.sh
 ```
